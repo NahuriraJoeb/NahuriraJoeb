@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NahuriraJoeb
-- 👀 I’m interested in art,poetry,marketing and IT
-- 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on software developments and writing whether it's poetry,scripts,prose,novels etc
+- 👀 I’m interested in art,poetry,marketing and tech
+- 🌱 Always enthuistic about revolutionary technologies and solutions
+- 💞️ Up for collabs and business analysis, development and intelligence
 - 📫 How to reach me mubarijoab@gmail.com 
 
 <!---
